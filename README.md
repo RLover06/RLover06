@@ -24,7 +24,6 @@
 
 - ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
 
-- 📫 You can contact me at regyescoamver@gmail.com
 
 
 
