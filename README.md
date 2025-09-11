@@ -1,16 +1,94 @@
-## Hi there 👋
 
-<!--
-**RLover06/RLover06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Here are some ideas to get you started:
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Over Regino</h1></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Each bug fixed is a level passed in the programming game 😁 </h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I'm a Physicist, currently focused on programming and data analysis.
+
+- 🌱 I developed my thesis on Raman spectroscopy applied to cerium-doped ZnO using MATLAB.
+
+- ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
+
+- 📫 You can contact me at regyescoamver@gmail.com
+
+
+
+<!--- stats & Trophy (start) -->
+
+
+
+</p>        
+<!--- stats (end) -->
+
+<!--========================================================================================================================================================================================================-->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technical skills👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=,css,cpp,html,js,ts,latex,matlab,py,svelte,fortran" />
+  </a>
+</p>
+<!--========================================================================================================================================================================================================-->
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technical tools 🔧💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack Editor-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,tailwind,vscode,anaconda,eclipse,ai" />
+  </a>
+</p>
+<!--=====================================================================================================================================================-->
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect with me 🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,github,linkedin,discord" />
+  </a>
+</p>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
