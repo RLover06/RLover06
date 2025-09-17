@@ -44,23 +44,24 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,html,css,svelte,latex, matlab,fortran" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,fortran,nextjs,svelte,html,css,tailwind,latex,matlab" />
   </a>
 </p>
 <!--========================================================================================================================================================================================================-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technical tools 🔧💻</h2></summary>
+    <summary><h2 style="display: inline-block">Runtimes + Databases + Compilers 🔧💻</h2></summary>
   </ul>
 </div>
 <!--tech stack Editor-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nextjs,nodejs,tailwind,vscode,anaconda,eclipse,ai" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,anaconda,eclipse" />
   </a>
 </p>
 <!--=====================================================================================================================================================-->
+<!--==========MIS COMPLIDAORES + RUNTIMES +DATAB===========================================================================================================================================-->
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
