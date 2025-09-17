@@ -44,7 +44,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,cpp,js,ts,py,html,css,svelte,latex, matlab,fortran" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,html,css,svelte,latex, matlab,fortran" />
   </a>
 </p>
 <!--========================================================================================================================================================================================================-->
