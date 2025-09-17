@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,github,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
   </a>
 </p>
   
