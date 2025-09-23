@@ -112,7 +112,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://verticalspanish.com">
-        <img src="assets/logo-vs.png" width="120" alt="Vertical Spanish Logo"/>
+        <img src="https://raw.githubusercontent.com/RLover06/RLover06/main/assets/logo-vs.png" width="120"/>
         <h3>Vertical Spanish</h3>
         <p>Practice Spanish under the stars!</p>
       </a>
