@@ -94,7 +94,29 @@
 
 ## 🚀 Featured Projects  
 
-<table>
+<style>
+  table {
+    border-collapse: separate;
+    border-spacing: 40px; /* separación entre columnas */
+  }
+
+  table, td {
+    border: none; /* quita los bordes de la tabla y celdas */
+  }
+
+  td a {
+    text-decoration: none;  /* quita subrayado */
+    color: white;           /* texto blanco */
+    display: block;         /* toda la celda clickeable */
+    text-align: center;     /* centra el contenido */
+  }
+
+  td h3, td p {
+    margin: 10px 0;
+  }
+</style>
+
+<table align="center">
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/RLover06">
@@ -112,13 +134,12 @@
     </td>
     <td align="center" width="300">
       <a href="https://verticalspanish.com">
-        <img src="https://raw.githubusercontent.com/RLover06/RLover06/main/assets/logo-vs.png" width="120"/>
+        <img src="logo-vs.png" width="120" alt="Vertical Spanish"/>
         <h3>Vertical Spanish</h3>
         <p>Practice Spanish under the stars!</p>
       </a>
     </td>
   </tr>
 </table>
-
 
 
