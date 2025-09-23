@@ -93,7 +93,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Featured Projects  
-
 <table>
   <tr>
     <td align="center" width="300">
@@ -112,7 +111,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://verticalspanish.com">
-       <img src="logo-vs.png" width="120"/>
+        <img src="logo-vs.png" width="120"/>
         <h3>Vertical Spanish</h3>
         <p>Practice Spanish under the stars!</p>
       </a>
