@@ -92,5 +92,33 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🚀 Featured Projects  
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/RLover06">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo"/>
+        <h3>My GitHub</h3>
+        <p>Check my repositories and contributions.</p>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://airmailer.io">
+        <img src="https://cdn-icons-png.flaticon.com/512/747/747086.png" width="100" alt="AirMailer"/>
+        <h3>AirMailer.io</h3>
+        <p>A platform to buy direct mailing lists.</p>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://verticalspanish.com">
+        <img src="assets/logo-vs.png" width="120" alt="Vertical Spanish Logo"/>
+        <h3>Vertical Spanish</h3>
+        <p>Practice Spanish under the stars!</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
