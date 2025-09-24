@@ -104,7 +104,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://airmailer.io">
-        <img src="https://cdn-icons-png.flaticon.com/512/747/747086.png" width="100" alt="AirMailer"/>
+        <img src="logo-am.png" width="120"/>
         <h3>AirMailer.io</h3>
         <p>A platform to buy direct mailing lists.</p>
       </a>
