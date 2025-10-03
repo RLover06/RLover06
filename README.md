@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Each bug fixed is a level passed in the programming game 😁 </h2></summary>
+    <summary><h2 style="display: inline-block">Each bug fixed is a level passed in the programming juego 😁 </h2></summary>
   </ul>
 </div>
 
