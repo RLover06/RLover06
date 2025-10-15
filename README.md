@@ -20,25 +20,13 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 
 
 <!--Intro start-->
-- 🔭 I'm a Physicist, currently focused on programming and data analysis.
+* 🔭 I'm a Physicist, currently focused on programming and data analysis.
 
-- 🔧 I developed my thesis on Raman spectroscopy applied to cerium-doped ZnO using MATLAB.
+* 🔧 I developed my thesis on Raman spectroscopy applied to cerium-doped ZnO using MATLAB.
 
-- ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
+* ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
 
-- 💻 The work I do at DataForest.io is quite rewarding. Not only do I implement new features and integrations to help businesses connect with customers. I am also helping Colombia grow its GDP.
-
-Tech Stack:
-
-* Svelte/SvelteKit
-* ⁠TypeScript
-* ⁠Tailwind CSS
-* ⁠Prisma
-* ⁠PostgresSQL
-* ⁠Supabase
-* ⁠Vercel
-
-
+* 💻 The work I do at DataForest.io is quite rewarding. Not only do I implement new features and integrations to help businesses connect with customers. I am also helping Colombia grow its GDP.
 <!--- stats & Trophy (start) -->
 
 
