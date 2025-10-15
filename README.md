@@ -8,6 +8,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Over Regino</h1></summary>
   </ul>
 </div>
+<!--Intro start-->
+Hello! I am Over Regino, a software developer and physicist from Colombia. I enjoy building software and solving problems with people from all over the world. Working in a team, and adapting to new situations/objectives is something I am completely comfortable with. If you want to just talk software or have a potential opportunity for us to work together, please feel free to reach out!
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -20,11 +22,21 @@
 <!--Intro start-->
 - 🔭 I'm a Physicist, currently focused on programming and data analysis.
 
-- 🌱 I developed my thesis on Raman spectroscopy applied to cerium-doped ZnO using MATLAB.
+- 🔧 I developed my thesis on Raman spectroscopy applied to cerium-doped ZnO using MATLAB.
 
 - ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
 
+- 💻 The work I do at DataForest.io is quite rewarding. Not only do I implement new features and integrations to help businesses connect with customers. I am also helping Colombia grow its GDP.
 
+Tech Stack:
+
+* Svelte/SvelteKit
+* ⁠TypeScript
+* ⁠Tailwind CSS
+* ⁠Prisma
+* ⁠PostgresSQL
+* ⁠Supabase
+* ⁠Vercel
 
 
 <!--- stats & Trophy (start) -->
