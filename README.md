@@ -74,7 +74,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord" />
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin,discord,facebook" />
   </a>
 </p>
   
