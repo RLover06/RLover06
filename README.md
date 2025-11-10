@@ -44,7 +44,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,fortran,nextjs,svelte,html,css,tailwind,matlab,latex" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,fortran,nextjs,svelte,html,css,php,tailwind,matlab,latex" />
   </a>
 </p>
 <!--========================================================================================================================================================================================================-->
@@ -57,7 +57,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--tech stack Editor-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,anaconda,eclipse" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker,anaconda,eclipse" />
   </a>
 </p>
 <!--=====================================================================================================================================================-->
