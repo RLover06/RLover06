@@ -38,7 +38,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technical skills👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block"> Skills Used👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -51,7 +51,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="disply: inline-block"> Databases🔧💻</h2></summary>
+    <summary><h2 style="disply: inline-block"> Databases Used🔧💻</h2></summary>
   </ul>
 </div>
 <!--tech stack Editor-->
