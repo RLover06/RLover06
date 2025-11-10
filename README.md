@@ -60,7 +60,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
     <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker,anaconda,eclipse" />
   </a>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/MariaDB_Logo.png" alt="MariaDB" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/MariaDB_Logo.png" alt="MariaDB" />
 </p>
 <!--=====================================================================================================================================================-->
 <!--==========MIS COMPLIDAORES + RUNTIMES +DATAB===========================================================================================================================================-->
