@@ -51,12 +51,12 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="disply: inline-block">Runtimes + Databases + Compilers 🔧💻</h2></summary>
+    <summary><h2 style="disply: inline-block"> Databases🔧💻</h2></summary>
   </ul>
 </div>
 <!--tech stack Editor-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker,anaconda,eclipse" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" />
 </p>
 <!--=====================================================================================================================================================-->
