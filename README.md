@@ -46,6 +46,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,fortran,nextjs,svelte,html,css,php,alpinejs,mongodb,firebase,prisma,supabase,jquery,vite,react,vercel,tailwind,matlab,latex" />
   </a>
+  <img src="https://www.scriptcase.com.py/wp-content/uploads/2016/09/cropped-Scriptcase-logo-1.jpg" alt="Scriptcase" width="60" height="60" />
 </p>
 <!--========================================================================================================================================================================================================-->
 <!--h1 without bottom border-->
