@@ -44,7 +44,7 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 <!--tech stack icons-->
 <p align="center">
     <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,fortran,nextjs,svelte,html,css,php,alpinejs,mongodb,firebase,prisma,supabase,jquery,vite,react,vercel,tailwind,matlab,latex" />
-    <img src="[assets/scriptcase.png](https://www.acsoftwares.net/wp-content/uploads/2020/03/categoriascriptcase.jpg)" alt="Scriptcase" width="48" height="48" />
+    <img src="https://chatgpt.com/g/g-p-68f70897299c8191a84a6a5684fcd1c8-github/c/69116a5e-1f6c-832e-9041-bafa442cd7e1" alt="Scriptcase" width="48" height="48" />
 </p>
 <!--========================================================================================================================================================================================================-->
 <!--h1 without bottom border-->
