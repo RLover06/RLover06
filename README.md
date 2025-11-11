@@ -72,8 +72,8 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 </div>
 <!--tech stack Editor-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker,gcp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,nodejs,docker,gcp" />
 </p>
 <!--=====================================================================================================================================================-->
 <!--==========MIS COMPLIDAORES + RUNTIMES +DATAB===========================================================================================================================================-->
