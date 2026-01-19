@@ -118,17 +118,10 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
       </a>
     </td>
     <td align="center" width="300">
-      <a href="https://airmailer.io">
+      <a href="https://dataforest.io/">
         <img src="logo-am.png" width="120"/>
         <h3>AirMailer.io</h3>
         <p>A platform to buy direct mailing lists.</p>
-      </a>
-    </td>
-    <td align="center" width="300">
-      <a href="https://verticalspanish.com">
-        <img src="logo-vs.png" width="120"/>
-        <h3>Vertical Spanish</h3>
-        <p>Practice Spanish under the stars!</p>
       </a>
     </td>
   </tr>
