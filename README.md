@@ -26,7 +26,9 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
 
 * ☁️ I stand out for my adaptability and ability to learn. I hope to be a good software developer and an excellent colleague.
 
-* 💻 The work I do at DataForest.io is very rewarding. I'm in charge of optimizing algorithms and improving the website's design to make it more attractive and functional, thus contributing to the company's growth and innovation..
+* 💻 The work I do at expertak.kaizenerp.com.co/menu/ is very rewarding. I'm in charge of optimizing algorithms and improving the website's design to make it more attractive and functional, thus contributing to the company's growth and innovation.
+
+* 📈 The work I do at expertak.kaizenerp.com.co/menu/ is very rewarding. I'm in charge of optimizing website algorithms and automations to carry out accounting processes.
 <!--- stats & Trophy (start) -->
 
 
