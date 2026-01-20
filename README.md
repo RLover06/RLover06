@@ -119,14 +119,14 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
     </td>
     <td align="center" width="300">
       <a href="https://dataforest.io/">
-        <img src="logo-am.png" width="120"/>
+        <img src="data.png" width="120"/>
         <h3>Dataforest.io</h3>
-        <p>A platform to buy direct mailing lists.</p>
+        <p>A Direct Marketing platform.</p>
       </a>
     </td>
         <td align="center" width="300">
       <a href="https://expertak.kaizenerp.com.co/menu/">
-        <img src="logo-am.png" width="120"/>
+        <img src="script.png" width="120"/>
         <h3>expertak</h3>
         <p>A platform for organizing and carrying out accounting processes.</p>
       </a>
