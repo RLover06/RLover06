@@ -124,5 +124,12 @@ Hello! I am Over Regino, a software developer and physicist from Colombia. I enj
         <p>A platform to buy direct mailing lists.</p>
       </a>
     </td>
+        <td align="center" width="300">
+      <a href="https://expertak.kaizenerp.com.co/menu/">
+        <img src="logo-am.png" width="120"/>
+        <h3>expertak</h3>
+        <p>A platform for organizing and carrying out accounting processes.</p>
+      </a>
+    </td>
   </tr>
 </table>
